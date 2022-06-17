@@ -1,6 +1,6 @@
 # MetaFormer
 
-论文地址：[MetaFormer is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418)
+论文地址：[MetaFormer is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418)  
 项目地址：https://aistudio.baidu.com/aistudio/projectdetail/4216419
 
 ## 简介
